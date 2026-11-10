@@ -9,7 +9,7 @@ game playable imo).
 
 ## Fix it
 
-**[Open the fixer](https://wasdhjklxyz.github.io/batman-arkham-asylum-detective-mode-flashbang-fix/)**
+**[Open the fixer](https://wasdhjklxyz.github.io/baadmff)**
 
 1. In Steam, right-click **Batman: Arkham Asylum GOTY Edition** → **Manage** →
    **Browse local files**, then go to **BmGame** → **CookedPC**.
